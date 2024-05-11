@@ -360,6 +360,9 @@ parameters = [50 - 30j, 18 + 8j, 12 - 10j, -14 - 60j, 20 + 20j]
 # fabio’s bird with right wing paralysis
 # parameters = [50 - 15j, 5 + 2j, -1 - 5j, -14 - 60j, 18 - 40j]
 
+# eric's volley ball men
+# parameters = [30 - 10j, 8 + 8j, 5 - 45j, -9 - 25j, -10 +35j]
+
 # for pea shooter see code below 
 
 def fourier(t, C):
